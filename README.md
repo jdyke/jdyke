@@ -29,4 +29,5 @@ This repo contains all you need to begin automating remediations for GCP Event T
 
 ## :framed_picture:	AWS Compliance SCP Lister :framed_picture:
 [![AWS SCP Lister](./img/aws_open.jpg)](https://github.com/salesforce/aws-allowlister)
+
 I was a co-contributor on this repository providing guidance and quality assurance testing. This repo automatically compiles an AWS Service Control Policy that ONLY allows AWS services that are compliant with your preferred compliance frameworks.
