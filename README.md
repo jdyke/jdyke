@@ -2,6 +2,10 @@
 
 This README represents an example of my public repositories that I either authored or co-contributed to. A lot of the projects I have worked on in the past 2 years as a consultant are stuck behind IP agreements, but I hope you find some of these useful in your day to day!
 
+## :construction_worker: Workload Identity Federation :construction_worker:
+[!Workload Identity Fedederation](./img/aws-to-gcp.png)(https://github.com/ScaleSec/gcp-workload-identity-federation)
+
+This repository contains a python module that allows users to access GCP from AWS without the use of static credentials (aka GCP service account keys). This module can be imported into any python script and leveraged to generate an ephemeral GCP service account access token.
 
 ## :lock: Project Lockdown :lock:
 [![Project Lockdown](./img/project_lockdown.png)](https://github.com/ScaleSec/project_lockdown)
