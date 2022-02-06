@@ -2,6 +2,11 @@
 
 This README represents an example of my public repositories that I either authored or co-contributed to. A lot of the projects I have worked on in the past 2 years as a consultant are stuck behind IP agreements, but I hope you find some of these useful in your day to day!
 
+## GCP IAM Monitor Bot:
+[URL](https://github.com/jdyke/gcp_iam_update_bot)
+
+This project is aimed at tweeting each time there is an update to GCP IAM roles. Having insight into when your predefined roles are changes is important to monitor your permissions creep for users in GCP. 
+
 ## :construction_worker: Workload Identity Federation :construction_worker:
 [![Workload Identity Fedederation](./img/aws-to-gcp.png)](https://github.com/ScaleSec/gcp-workload-identity-federation)
 
