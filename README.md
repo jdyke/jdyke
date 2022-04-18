@@ -1,6 +1,6 @@
 # Welcome to Jason Dyke's GitHub!
 
-This README represents an example of my public repositories that I either authored or co-contributed to. A lot of the projects I have worked on in the past 2 years as a consultant are stuck behind IP agreements, but I hope you find some of these useful in your day to day!
+This README represents an example of my public repositories that I either authored or co-contributed to.
 
 ## GCP IAM Analyzer:
 [URL](https://github.com/jdyke/gcp-iam-analyzer)
