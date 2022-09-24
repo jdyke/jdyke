@@ -2,6 +2,12 @@
 
 This README represents an example of my public repositories that I either authored or co-contributed to.
 
+## GCP Service Observer
+[![GCP Service Observer](./img/table.png)](https://github.com/jdyke/gcp_service_observer)
+
+This is an application that displays GCP Service/API endpoint information for a given GCP project ID.
+
+
 ## GCP IAM Analyzer:
 [URL](https://github.com/jdyke/gcp-iam-analyzer)
 
