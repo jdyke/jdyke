@@ -33,6 +33,8 @@ Additionally:
 
 This project is aimed at tweeting each time there is an update to GCP IAM roles. Having insight into when your predefined roles are changes is important to monitor your permissions creep for users in GCP. 
 
+---
+
 ## :construction_worker: Workload Identity Federation :construction_worker:
 [![Workload Identity Fedederation](./img/aws-to-gcp.png)](https://github.com/ScaleSec/gcp-workload-identity-federation)
 
